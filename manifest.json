@@ -1,0 +1,15 @@
+{
+  "short_name": "LegalEase",
+  "name": "LegalEase Contract Simplifier",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0284c7",
+  "background_color": "#f8fafc",
+  "icons": [
+    {
+      "src": "https://fonts.gstatic.com/s/i/materialicons/gavel/v6/24px.svg",
+      "sizes": "24x24",
+      "type": "image/svg+xml"
+    }
+  ]
+}
